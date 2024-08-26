@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with on data enhancement.<br>🌱 I’m currently learning Quantum Machine Learning.<br>💬 Ask me about GenAI, QML and Networking.<br>⚡ Fun fact I love Gaming 🎮.
+🔭 I’m currently working on data enhancement.<br>🌱 I’m currently learning Quantum Machine Learning.<br>💬 Ask me about GenAI, QML and Networking.<br>⚡ Fun fact I love Gaming 🎮.
 
 ![](https://media1.tenor.com/m/TJLxAZiTdHwAAAAC/awkward-umm-what.gif)
 
